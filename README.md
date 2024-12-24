@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @italomagno
-- 👀 I’m interested in HTML, JAVASCRIPT, CSS AND PYTHON
-- 🌱 I’m currently learning HTML, JAVASCRIPT AND CSS
+- 👀 I’m interested in NextJs, React and Node
 - 💞️ I’m looking to collaborate on any project in area
 - 📫 How to reach me italomagno10@gmail.com
 
